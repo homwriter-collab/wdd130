@@ -1,9 +1,9 @@
 body {
-    background-color: red !important;
+    background-color: rgb(158, 148, 148) !important;
 }
 
 nav {
-    background-color: darkblue;
+    background-color: rgb(9, 9, 27);
     padding: 10px;
 }
 
